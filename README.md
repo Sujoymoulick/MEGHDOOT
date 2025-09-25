@@ -21,8 +21,7 @@ Powered by [WeatherAPI](https://www.weatherapi.com/), it lets you search by city
 
 ---
 
-## 📸
-- **Screen Shot:**
+## 📸Screen Shots
 - <img width="1440" height="932" alt="Screenshot 2025-09-25 at 12 32 14 PM" src="https://github.com/user-attachments/assets/b410b099-625c-4cac-ae6b-5495b4618aac" />
 <img width="1440" height="932" alt="Screenshot 2025-09-25 at 12 32 24 PM" src="https://github.com/user-attachments/assets/67205135-f492-4bd5-8a19-4a57e04e9d94" />
 
@@ -32,5 +31,5 @@ Powered by [WeatherAPI](https://www.weatherapi.com/), it lets you search by city
 ## 📦 Installation & Setup
 1. Clone the repository  
    ```bash
-   git clone https://github.com/your-username/meghdoot-weather-app.git
+   git clone https://github.com/Sujoymoulick/MEGHDOOT.git
    cd meghdoot-weather-app
